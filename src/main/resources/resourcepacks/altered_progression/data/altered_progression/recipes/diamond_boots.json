@@ -1,0 +1,15 @@
+{
+"type": "minecraft:smithing_transform",
+"template": {
+"item": "altered_progression:diamond_upgrade"
+},
+"base": {
+"item": "minecraft:golden_boots"
+},
+"addition": {
+"item": "minecraft:diamond"
+},
+"result": {
+"item": "minecraft:diamond_boots"
+}
+}

@@ -1,0 +1,15 @@
+{
+"type": "minecraft:smithing_transform",
+"template": {
+"item": "altered_progression:primitive_upgrade"
+},
+"base": {
+"item": "minecraft:leather_chestplate"
+},
+"addition": {
+"item": "minecraft:copper_ingot"
+},
+"result": {
+"item": "altered_progression:copper_chestplate"
+}
+}

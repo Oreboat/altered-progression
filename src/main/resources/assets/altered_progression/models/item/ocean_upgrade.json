@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "altered_progression:item/aquatic_upgrade_smithing_template"
+  }
+}

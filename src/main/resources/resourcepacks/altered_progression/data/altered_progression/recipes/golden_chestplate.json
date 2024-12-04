@@ -1,0 +1,15 @@
+{
+"type": "minecraft:smithing_transform",
+"template": {
+"item": "altered_progression:golden_downgrade"
+},
+"base": {
+"item": "minecraft:iron_chestplate"
+},
+"addition": {
+"item": "minecraft:gold_ingot"
+},
+"result": {
+"item": "minecraft:golden_chestplate"
+}
+}

@@ -1,0 +1,15 @@
+{
+"type": "minecraft:smithing_transform",
+"template": {
+"item": "altered_progression:iron_upgrade"
+},
+"base": {
+"item": "altered_progression:copper_helmet"
+},
+"addition": {
+"item": "minecraft:iron_ingot"
+},
+"result": {
+"item": "minecraft:iron_helmet"
+}
+}

@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "key": {
+        "p": {
+            "tag": "minecraft:planks"
+        },
+        "s": {
+            "item": "minecraft:stick"
+        }
+    },
+    "pattern": [
+        "p  ",
+        " s ",
+        "  s"
+    ],
+
+    "result": {
+        "item": "altered_progression:wooden_spear",
+        "count": 1
+    }
+}

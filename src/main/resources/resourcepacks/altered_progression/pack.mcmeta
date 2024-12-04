@@ -1,0 +1,142 @@
+{
+  "pack": {
+    "description": "Disables Recipes for Altered Progression Mod",
+    "pack_format": 15
+  },
+  "filter": {
+    "block": [
+      {
+        "namespace": "minecraft",
+        "path": "recipes/stone_sword.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "recipes/stone_pickaxe.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "recipes/stone_axe.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "recipes/stone_shovel.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "recipes/stone_hoe.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "recipes/iron_sword.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "recipes/iron_pickaxe.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "recipes/iron_axe.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "recipes/iron_shovel.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "recipes/iron_hoe.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "recipes/golden_sword.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "recipes/golden_pickaxe.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "recipes/golden_axe.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "recipes/golden_shovel.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "recipes/golden_hoe.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "recipes/diamond_sword.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "recipes/diamond_pickaxe.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "recipes/diamond_axe.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "recipes/diamond_shovel.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "recipes/diamond_hoe.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "recipes/iron_helmet.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "recipes/iron_chestplate.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "recipes/iron_leggings.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "recipes/iron_boots.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "recipes/golden_helmet.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "recipes/golden_chestplate.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "recipes/golden_leggings.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "recipes/golden_boots.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "recipes/diamond_helmet.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "recipes/diamond_chestplate.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "recipes/diamond_leggings.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "recipes/diamond_boots.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "recipes/smithing_table.json"
+      }
+    ]
+  }
+}

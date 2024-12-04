@@ -1,0 +1,16 @@
+{
+"type": "minecraft:smithing_transform",
+"template": {
+"item": "altered_progression:iron_upgrade"
+},
+"base": {
+"item": "minecraft:stone_sword"
+},
+"addition": {
+"item": "minecraft:iron_ingot"
+},
+"result": {
+"item": "minecraft:iron_sword"
+}
+}
+ 

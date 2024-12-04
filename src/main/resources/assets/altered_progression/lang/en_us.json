@@ -1,0 +1,17 @@
+{
+  "item.altered_progression.stone_upgrade" : "Primitive Upgrade Smithing Template",
+  "item.altered_progression.iron_upgrade" : "Iron Upgrade Smithing Template",
+  "item.altered_progression.golden_downgrade" : "Golden Downgrade Smithing Template",
+  "item.altered_progression.diamond_upgrade" : "Diamond Upgrade Smithing Template",
+  "item.altered_progression.ocean_upgrade" : "Aquatic Upgrade Smithing Template",
+  "item.altered_progression.copper_helmet" : "Copper Helmet",
+  "item.altered_progression.copper_chestplate" : "Copper Chestplate",
+  "item.altered_progression.copper_leggings" : "Copper Leggings",
+  "item.altered_progression.copper_boots" : "Copper Boots",
+  "item.altered_progression.wooden_spear" : "Wooden Spear",
+  "item.altered_progression.stone_spear" : "Stone Spear",
+  "item.altered_progression.iron_spear" : "Iron Spear",
+  "item.altered_progression.golden_spear" : "Golden Spear",
+  "item.altered_progression.diamond_spear" : "Diamond Spear",
+  "item.altered_progression.netherite_spear" : "Netherite Spear"
+}

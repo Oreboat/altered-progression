@@ -1,0 +1,15 @@
+{
+"type": "minecraft:smithing_transform",
+"template": {
+"item": "altered_progression:primitive_upgrade"
+},
+"base": {
+"item": "altered_progression:wooden_spear"
+},
+"addition": {
+"item": "minecraft:cobblestone"
+},
+"result": {
+"item": "altered_progression:stone_spear"
+}
+}

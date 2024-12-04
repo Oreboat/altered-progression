@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "altered_progression:iron_upgrade"
+  },
+  "base": {
+    "item": "altered_progression:diamond_spear"
+  },
+  "addition": {
+    "item": "minecraft:netherite_ingot"
+  },
+  "result": {
+    "item": "altered_progression:netherite_spear"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "altered_progression:item/netherite_spear"
+    },
+  "display": {
+    "thirdperson_righthand": {
+      "scale": [
+        2.0,
+        2.0,
+        1.0
+      ],
+      "rotation": [
+        -45,
+        -90,
+        0
+      ],
+      "translation": [
+        0.0,
+        0.0,
+        2.0
+      ]
+    },
+    "thirdperson_lefthand": {
+      "scale": [
+        2.0,
+        2.0,
+        1.0
+      ],
+      "rotation": [
+        -45,
+        90,
+        0
+      ],
+      "translation": [
+        0.0,
+        0.0,
+        2.0
+      ]
+    },
+    "firstperson_righthand": {
+      "scale": [
+        2.0,
+        2.0,
+        1.0
+      ],
+      "rotation": [
+        0,
+        90,
+        0
+      ],
+      "translation": [
+        4.0,
+        0.0,
+        0.0
+      ]
+    },
+    "firstperson_lefthand": {
+      "scale": [
+        2.0,
+        2.0,
+        1.0
+      ],
+      "rotation": [
+        0,
+        -90,
+        0
+      ],
+      "translation": [
+        4.0,
+        0.0,
+        0.0
+      ]
+    }
+  }
+}
