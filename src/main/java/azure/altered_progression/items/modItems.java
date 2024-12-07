@@ -23,12 +23,12 @@ public class modItems {
 	public static final Item COPPER_LEGGINGS = new ArmorItem(ArmorMaterials.COPPER, ArmorItem.ArmorSlot.LEGGINGS, new Item.Settings());
 	public static final Item COPPER_BOOTS = new ArmorItem(ArmorMaterials.COPPER, ArmorItem.ArmorSlot.BOOTS, new Item.Settings());
 	//spears
-	public static final Item WOOD_SPEAR = new SpearItem(ToolMaterials.WOOD, 1, 3.2f);
-	public static final Item STONE_SPEAR = new SpearItem(ToolMaterials.STONE, 1, 3.2f);
-	public static final Item IRON_SPEAR = new SpearItem(ToolMaterials.IRON, 1, 3.2f);
-	public static final Item GOLD_SPEAR = new SpearItem(ToolMaterials.GOLD, 1, 3.2f);
-	public static final Item DIAMOND_SPEAR = new SpearItem(ToolMaterials.DIAMOND, 1, 3.2f);
-	public static final Item NETHERITE_SPEAR = new SpearItem(ToolMaterials.NETHERITE, 1, 3.2f);
+	public static final Item WOOD_SPEAR = new SpearItem(ToolMaterials.WOOD, 1, 0.8f);
+	public static final Item STONE_SPEAR = new SpearItem(ToolMaterials.STONE, 1, 0.8f);
+	public static final Item IRON_SPEAR = new SpearItem(ToolMaterials.IRON, 1, 0.8f);
+	public static final Item GOLD_SPEAR = new SpearItem(ToolMaterials.GOLD, 1, 0.8f);
+	public static final Item DIAMOND_SPEAR = new SpearItem(ToolMaterials.DIAMOND, 1, 0.8f);
+	public static final Item NETHERITE_SPEAR = new SpearItem(ToolMaterials.NETHERITE, 1, 0.8f);
 	//aquatic gear
 	public static final Item Atlantean_Sword = new Item(new Item.Settings());
 	public static final Item Nautical_Axe = new Item(new Item.Settings());

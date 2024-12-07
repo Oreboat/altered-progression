@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "iti",
+    "ibi",
+    "iii"
+  ],
+  "key": {
+    "t": {
+      "item": "altered_progression:iron_upgrade"
+    },
+    "i": {
+      "item": "minecraft:copper_ingot"
+    },
+    "b": {
+      "tag": "minecraft:stone_crafting_materials"
+    }
+  },
+  "result": {
+    "item": "altered_progression:iron_upgrade",
+    "count": 2
+  }
+}

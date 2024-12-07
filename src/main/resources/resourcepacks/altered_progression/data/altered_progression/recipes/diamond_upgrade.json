@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "iti",
+    "ibi",
+    "iii"
+  ],
+  "key": {
+    "t": {
+      "item": "altered_progression:diamond_upgrade"
+    },
+    "i": {
+      "item": "minecraft:iron_ingot"
+    },
+    "b": {
+      "item": "minecraft:deepslate"
+    }
+  },
+  "result": {
+    "item": "altered_progression:diamond_upgrade",
+    "count": 2
+  }
+}
